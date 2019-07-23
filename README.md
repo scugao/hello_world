@@ -1,2 +1,5 @@
 # hello_world
-workshop 3 for MSD
+
+Hi students,
+I am Robin, lecturer for MSD
+
